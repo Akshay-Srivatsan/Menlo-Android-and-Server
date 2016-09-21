@@ -1,0 +1,11 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+backend/build
+backend/src/main/webapp/Menlo-Private.json
+backend/src/main/java/tech/apeiron/menlo/backend/MenloPrivate.java
